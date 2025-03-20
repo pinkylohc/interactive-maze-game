@@ -1,0 +1,7 @@
+../Core/Src/move.c:20:6:move	8	static
+../Core/Src/move.c:65:6:move_up	8	static
+../Core/Src/move.c:72:6:move_down	8	static
+../Core/Src/move.c:79:6:move_left	8	static
+../Core/Src/move.c:86:6:move_right	8	static
+../Core/Src/move.c:92:6:handle_move	16	static
+../Core/Src/move.c:137:5:check_valid	4	static

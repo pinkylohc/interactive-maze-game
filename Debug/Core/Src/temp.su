@@ -1,0 +1,7 @@
+../Core/Src/temp.c:15:6:delay	16	static
+../Core/Src/temp.c:22:6:gpio_set_input	8	static
+../Core/Src/temp.c:31:6:gpio_set_output	8	static
+../Core/Src/temp.c:41:9:ds18b20_init	8	static
+../Core/Src/temp.c:63:6:write_ds	24	static
+../Core/Src/temp.c:96:9:read_ds	16	static
+../Core/Src/temp.c:118:7:temp_value	8	static

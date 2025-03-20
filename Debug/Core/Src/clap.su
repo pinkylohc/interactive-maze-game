@@ -1,0 +1,4 @@
+../Core/Src/clap.c:13:6:generate_sequence_clap	32	static
+../Core/Src/clap.c:24:6:show_sequence_clap	24	static
+../Core/Src/clap.c:98:6:wait_for_user_input_clap	32	static
+../Core/Src/clap.c:120:6:play_game	56	dynamic

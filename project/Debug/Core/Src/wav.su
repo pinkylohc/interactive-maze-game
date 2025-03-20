@@ -1,0 +1,3 @@
+../Core/Src/wav.c:25:6:play_audio	16	static
+../Core/Src/wav.c:76:8:HAL_I2S_TxHalfCpltCallback	16	static
+../Core/Src/wav.c:80:8:HAL_I2S_TxCpltCallback	16	static

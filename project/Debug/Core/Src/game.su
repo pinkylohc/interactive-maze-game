@@ -1,0 +1,6 @@
+../Core/Src/game.c:26:6:shuffle	32	static
+../Core/Src/game.c:35:6:generate_sequence	24	static
+../Core/Src/game.c:53:6:show_sequence	16	static
+../Core/Src/game.c:79:6:user_input	16	static
+../Core/Src/game.c:108:6:check_match	16	static
+../Core/Src/game.c:116:6:light_pattern	8	static

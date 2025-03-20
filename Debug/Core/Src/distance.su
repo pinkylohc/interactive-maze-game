@@ -1,0 +1,4 @@
+../Core/Src/distance.c:19:5:compareNumbers_Distance	16	static
+../Core/Src/distance.c:28:6:playGuessingGame_Distance	40	static
+../Core/Src/distance.c:51:5:measureDistance	32	static
+../Core/Src/distance.c:84:6:game_Distance	16	static
